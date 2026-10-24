@@ -1,0 +1,9 @@
+LIBRARY kernel32.dll
+EXPORTS
+GetModuleHandleA@4
+GetProcAddress@8
+LoadLibraryA@4
+Sleep@4
+CreateThread@24
+VirtualProtect@16
+DisableThreadLibraryCalls@4

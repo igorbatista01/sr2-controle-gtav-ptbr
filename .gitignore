@@ -1,0 +1,5 @@
+*.obj
+*.lib
+*.bak
+Thumbs.db
+.DS_Store

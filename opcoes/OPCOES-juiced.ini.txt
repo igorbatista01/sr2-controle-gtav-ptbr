@@ -1,0 +1,12 @@
+OPCOES DO juiced.ini USADAS NESTE PACOTE
+(abra o arquivo juiced.ini na pasta do jogo com o Bloco de Notas; faca uma copia antes)
+
+[Input]
+SDL=1              <- OBRIGATORIO para o DualSense (ja vem assim no Juiced Patch)
+HoldFineAim=1      <- a mira so vale enquanto voce segura o L2 (ao soltar, sai da mira)
+
+[Gameplay]
+SkipIntros=1       <- opcional: pula os logos/videos iniciais e vai direto ao menu
+
+Outras que combinam com esse esquema (opcional): 
+DisableAimAssist=2 (desliga a mira assistida), Borderless=1 (janela sem borda).
